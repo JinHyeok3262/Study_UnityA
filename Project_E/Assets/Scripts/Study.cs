@@ -21,7 +21,7 @@ public class Study : MonoBehaviour
         Debug.Log(a++);
         Debug.Log(++a);
 
-        Debug
+        
     }
 
     // Update is called once per frame
